@@ -1,0 +1,45 @@
+.carde {
+  /* border: 1px solid #ccc; */
+  /* border-radius: 8px; */
+  width: 250px;
+  /* padding: 16px; */
+  text-align: left;
+  padding: -2em;
+}
+
+.carde img {
+  width: 50%;
+  height: 70%;
+  border-radius: 8px;
+}
+
+.card-body h3 {
+  padding-top: 10px;
+  font-size: 18px;
+  margin: 0 0 8px;
+  font-weight: 500;
+}
+.card-body h2 {
+  padding-top: 10px;
+  font-size: 18px;
+  margin: 0 0 8px;
+  font-weight: 500;
+}
+
+.card-body p {
+  font-size: 14px;
+  margin: 0 0 8px;
+}
+
+.card-body p:last-child {
+  font-weight: bold;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.log {
+  display: flex;
+  justify-content: left;
+}
